@@ -1,0 +1,13 @@
+# CMake / Build
+build/
+*.o
+*.out
+*.exe
+
+# IDEs
+.vscode/
+.idea/
+
+# OS generated
+.DS_Store
+Thumbs.db
